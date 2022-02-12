@@ -1,2 +1,3 @@
-# skrypty-shell
-Skrypty Shell
+# Skrypty Shell
+
+- `cdf` - przechodzenie pomiędzy katalogami
