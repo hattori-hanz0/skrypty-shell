@@ -58,8 +58,8 @@ if [ -f /etc/os-release ]; then
     source /etc/os-release
     if [ $ID == "arch" ]; then
         system="Arch"
-        system_full="Void $(uname -a)"
-        system_ver="Void $kernel"
+        system_full="$NAME"
+        system_ver="$BUILD_ID"
     fi
 fi
 
